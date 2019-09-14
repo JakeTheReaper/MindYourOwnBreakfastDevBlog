@@ -1,62 +1,37 @@
 ---
-title: Welcome to the Blog!
-date: "2018-07-01"
+title: DevBlog.Welcome()
+date: "2019-09-14"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+Welcome to the new blog, I hope you enjoy your stay!
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## Welcome to my blog
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+Before I get started with posting the super cool wicked stuff everyone is dying to read, here’s a quick introduction about myself and what I’m going to write about.
 
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
+I’m Jake, a 32 year old day dreamer from Sydney, Australia. “Hi Jake”.
+I’m currently enrolled in an IT degree with the goal of eventually becoming a web developer. In the past I have dabbled in the dark arts and built some very basic websites but nothing which screams out, “look at this guy with his slick web dev skills”. 
 
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+So after a few years of beating round the bush with half-hearted efforts, I’ve decided to get stuck into it and document my journey in the process. Essentially this blog will consist of mainly tech stuff with maybe some random going off on a tangent posts to keep things interesting along with book reviews as I tend to read a lot of books. “What a nerd”.
 
-### Pellentesque consectetur facilisis venenatis
+At this point in time I have decided to focus on Front-End development. For this, I have chosen to learn the ins and out of JavaScript. To give you some insight into my programming prowess, I have only used the following languages for assignments and have unfortunately forgotten about them since. These are:
 
-Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
+* Java
+* Python
+* Perl
+* PHP
+* HTML, CSS
+* Basic JavaScript
 
-> Quisque tempor nulla turpis, ut placerat arcu lobortis nec. Aenean sed vehicula nisi. Nullam vitae placerat enim. Etiam hendrerit enim vel tempor fermentum. Morbi rutrum euismod ipsum a luctus.
+The joys of studying where you gain certain knowledge in a specific subject area for a short amount of time, without really getting the chance afterwards to invest some time into solidifying your knowledge. I will write a more in depth post about my thoughts on the tertiary education system in the near future, including all the pros and cons from my experience.
 
-Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.
+On a side note, I have previously obtained a Diploma in Graphic Design and have worked in the industry albeit for a very brief amount of time. The main positive takeaway I got from that whole experience was when you are thrown in the deep end you learn to swim pretty quickly. You also gain rapid improvement and very sore eyes (from constantly staring at a screen) when you are investing 40+ hours a week honing your skills and mastering your craft. This leads me to the belief that the difference between being good at something and being great is “time”, investing the time in your work and investing the time in yourself. 
 
-### Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et
+If you have made it this far and gotten through all the riff raff then I applaud you and thank you for sticking it out. 
 
-Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.
-
-1.  Morbi posuere facilisis
-2.  Pellentesque habitant morbi tristique
-3.  Etiam malesuada dapibus
-
-Ut vel ligula ante. Proin quis metus magna. Nulla nec dui vulputate, semper orci in, sagittis dolor. Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam.
-
-#### Sed ac orci a dolor venenatis vulputate
-
-Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-![Space](./space.jpg)
-
-Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus elementum dapibus nibh, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
-
-##### Nulla nec dui vulputate, semper orci in, sagittis dolor
-
-Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, wow!')
-})
-```
-
-###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
-
-Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
-
-Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.
+That’s all for now so strap yourself in and join me on this wild journey towards becoming a top notch web developer. 
+##Disclaimer: 
+It will be a bumpy ride but I can guarantee lots of laughs along the way. 
