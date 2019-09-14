@@ -2,7 +2,7 @@ module.exports = {
   title: 'Mind Your Own Breakfast', // Required
   author: 'Jake Zerafa', // Required
   description: 'Web Developer',
-  primaryColor: '#6c12db', // Required
+  primaryColor: 'black', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
