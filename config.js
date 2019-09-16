@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Mind Your Own Breakfast', // Required
   author: 'Jake Zerafa', // Required
-  description: 'Web Developer',
+  description: 'Aspiring Web Developer',
   primaryColor: 'black', // Required
   showHeaderImage: true,
   showShareButtons: true,
