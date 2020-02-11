@@ -45,7 +45,7 @@ My favourite tutor is Brad Traversy, I currently have 3 of his courses.
 
 This course focused on utilising the python language with the Django framework to create a real estate web application. I learnt a lot from this course and gained a greater appreciation for backend development. Also I am a massive fan of Python, so I will definitely be going back to this language / framework when I tackle backend development further down the track. 
 
-![](htmlcss.JPG)
+![](htmlcss.JPGvim)
 
 ###Modern HTML & CSS from the beginning (including SASS) - Work In Progress.
 
